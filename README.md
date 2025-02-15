@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=500&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻)
 
 
 <h1 align="center">Hi 👋, I'm Yashasvi Bhati</h1>
