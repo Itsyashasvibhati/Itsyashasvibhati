@@ -96,31 +96,14 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 
 ---
 
-### 🔬 Projects
 
-- **University Management System**  
-  🛠️ Core Java, SQL  
-  Comprehensive platform to manage student info, course schedules, admissions, faculty, and finances, reducing administrative workload.  
-  [Project Link](https://github.com/amitkumardemo/University-Management-System)
 
-- **TechieHelp ChatGPT**  
-  🛠️ Python, Streamlit, API Integration  
-  Chatbot with OpenAI API for coding assistance, featuring response downloads in PDF/Excel.  
-  [Project Link](https://techieappchatbot.streamlit.app/)
-
-- **TechieHelp Website**  
-  🛠️ JavaScript, HTML, CSS, EJS, Python.
-  Platform offering internships, web/app development services, coding courses, and admissions guidance.  
-  [Project Link](https://techiehelpt.netlify.app/home)
-
----
+-
 
 ### 📜 Certifications
 
 - **Software Engineer Intern** - [HackerRank Certificate](https://www.hackerrank.com/certificates/5a97450686cb)
 - **Software Engineer** - [HackerRank Certificate](https://www.hackerrank.com/certificates/97e9548d5b6e)
-- **Python Certification** - [HackerRank Certificate](https://www.hackerrank.com/certificates/c23baa6903d4)
-- **JavaScript Certification** - [HackerRank Certificate](https://www.hackerrank.com/certificates/8611d7795b4a)
 
 ---
 
