@@ -65,6 +65,8 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 ---
 ## GitHub Stats and Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itsyashasvibhati&show_icons=true&theme=radical&bg_color=45,0D1117,1F1F1F,313131&title_color=FF69B4&text_color=79D7FF&icon_color=FFD700)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
+
 
 
 
