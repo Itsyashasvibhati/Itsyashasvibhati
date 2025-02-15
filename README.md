@@ -20,7 +20,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
   <a href="https://chat.whatsapp.com/CyqTMfdJF3dH0dvr0BLEAH" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/amitk25783/" target="blank" style="margin-right: 20px;">
+  <a href="https://auth.leetcode.org/user/amitk25783/" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
   <a href="https://www.hackerrank.com/amitk25783" target="blank" style="margin-right: 20px;">
