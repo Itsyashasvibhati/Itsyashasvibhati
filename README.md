@@ -116,15 +116,15 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumar&show_icons=true&locale=en&layout=compact" alt="amitkumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsyashasvibhati&show_icons=true&locale=en&layout=compact" alt="yashasvibhati" /></p>
 
 <p align="center">
-  <img src="https://github.com/AmitKumarDemo/AmitKumarDemo/raw/main/assets/animation.gif" alt="animated gif" />
+  <img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/raw/main/assets/animation.gif" alt="animated gif" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Itsyashasvibhati&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvibhati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkumar" alt="amitkumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Itsyashasvibhati" alt="yashasvibhati" /></a> </p>
 
 
 
