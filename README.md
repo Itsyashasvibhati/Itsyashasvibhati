@@ -1,5 +1,7 @@
 <p align="center">
-  <img src='![yashasvibhatibanner](https://github.com/user-attachments/assets/e8ee2df6-7513-4bdb-bfb7-e3e582f33a26)
+  <img src="<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="GitHub Banner" width="100%">
+</p>
 " alt="GitHub Banner" width="100%">
 </p>
 
