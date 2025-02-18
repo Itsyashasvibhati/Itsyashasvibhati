@@ -82,7 +82,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 - **Software Engineer Intern | HackerRank** (Remote)  
   📅  2024 - Dec 2024  
   Earned certification by solving complex coding challenges, showcasing strong skills in algorithms, data structures, and problem-solving.  
-  **[HackerRank Certificate Link](https://www.hackerrank.com/certificates/5a97450686cb)**  
+  **[HackerRank Certificate Link](https://www.hackerrank.com/certificates/d4e742942d54)**  
 
 - ---
 
@@ -90,7 +90,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 
 - **Jodhpur Institute of Engineering & Technology**  
   📍 Jodhpur, Rajasthan  
-  **B.Tech in Computer Science Engineering (AI & ML)**  
+  **B.Tech in Computer Science Engineering**  
   📅 Sept 2023 – Sept 2027  
   📊 CGPA: 9.04
 
