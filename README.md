@@ -23,7 +23,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
   <a href="https://auth.leetcode.org/user/amitk25783/" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
-  <a href="https://www.hackerrank.com/amitk25783" target="blank" style="margin-right: 20px;">
+  <a href="https://www.hackerrank.com/profile/yashasvibhati131" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" />
   </a>
   <a href="https://www.youtube.com/@TechieHelp" target="blank">
@@ -102,8 +102,8 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 
 ### 📜 Certifications
 
-- **Software Engineer Intern** - [HackerRank Certificate](https://www.hackerrank.com/certificates/5a97450686cb)
-- **Software Engineer** - [HackerRank Certificate](https://www.hackerrank.com/certificates/97e9548d5b6e)
+- **Software Engineer Intern** - [HackerRank Certificate](https://www.hackerrank.com/certificates/d4e742942d54)
+- **Software Engineer** - [HackerRank Certificate](https://www.hackerrank.com/certificates/756f8d599711)
 
 ---
 
