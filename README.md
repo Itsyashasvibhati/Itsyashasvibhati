@@ -1,7 +1,9 @@
 
 <img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/main/yashasvibhatibanner%20(1).png" alt="Yashasvi Bhati - Software Engineer" width="100%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=500&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻">
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Yashasvi Bhati</h1>
