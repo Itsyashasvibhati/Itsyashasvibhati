@@ -80,6 +80,19 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 
 
 ---
+🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/yashasvi-bhati-8444b82a1)
+<p align="center">
+  <a href="www.linkedin.com/in/yashasvi-bhati-8444b82a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/u/theyashasvibhati_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.hackerrank.com/profile/yashasvibhati131" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+</p>
 
 ### 💼 Experience
 
@@ -112,16 +125,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 ---
 
 
- 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/yashasvi-bhati-8444b82a1)
-<p align="center">
-  <a href="https://leetcode.com/u/theyashasvibhati_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://www.hackerrank.com/profile/yashasvibhati131" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsyashasvibhati&show_icons=true&locale=en&layout=compact" alt="yashasvibhati" /></p>
 
