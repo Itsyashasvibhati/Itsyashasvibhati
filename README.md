@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Itsyashasvibhati/Yashasvi-Bhati.git" alt="Yashasvi Bhati - Software Engineer" width="100%">
+<img src="" alt="Yashasvi Bhati - Software Engineer" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=500&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻)
 
