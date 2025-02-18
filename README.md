@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/main/yashasvibhatibanner%20(1).png" alt="Yashasvi Bhati - Software Engineer" width="100%">
+<img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/main/Your%20paragraph%20text%20(4).png" alt="Yashasvi Bhati - Software Engineer" width="100%">
 
 <p align="center-middle">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻">
