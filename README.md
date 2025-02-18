@@ -1,3 +1,7 @@
+<p align="center">
+  <img src='![yashasvibhatibanner](https://github.com/user-attachments/assets/e8ee2df6-7513-4bdb-bfb7-e3e582f33a26)
+" alt="GitHub Banner" width="100%">
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=500&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻)
 
