@@ -81,7 +81,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 
 ---
 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/yashasvi-bhati-8444b82a1)
+
 <p align="center">
   <a href="www.linkedin.com/in/yashasvi-bhati-8444b82a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
