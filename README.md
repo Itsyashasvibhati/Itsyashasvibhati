@@ -46,7 +46,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
 </p>
-
+  
 **Libraries/Frameworks**:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
