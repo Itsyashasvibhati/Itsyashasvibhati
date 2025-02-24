@@ -21,12 +21,12 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
   <a href="www.linkedin.com/in/yashasvi-bhati-8444b82a1" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://chat.whatsapp.com/CyqTMfdJF3dH0dvr0BLEAH" target="blank" style="margin-right: 20px;">
+<!--   <a href="https://chat.whatsapp.com/CyqTMfdJF3dH0dvr0BLEAH" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" />
   </a>
   <a href="https://auth.leetcode.org/user/amitk25783/" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/profile/yashasvibhati131" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" />
   </a>
