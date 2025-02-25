@@ -31,7 +31,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" />
   </a>
   <a href="https://www.youtube.com/@TechieHelp" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
   </a>
 </p>
 
