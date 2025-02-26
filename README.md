@@ -127,7 +127,7 @@ I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous le
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsyashasvibhati&show_icons=true&locale=en&layout=compact" alt="yashasvibhati" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsyashasvibhati&show_icons=true&locale=en&layout=compact" alt="yashasvibhati" /></p>  -->
 
 <p align="center">
   <img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/raw/main/assets/animation.gif" alt="animated gif" />
