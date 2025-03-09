@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yashasvi Bhati</h1>
-<h3 align="center">🚀 Software Engineer + Graphic Designer | Co-Founder @TechieHelp</h3>
+<h3 align="center">🚀 Software Engineer | Co-Founder @TechieHelp | Graphic Designer </h3>
 
 
 ---
