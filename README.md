@@ -7,13 +7,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Yashasvi Bhati</h1>
-<h3 align="center">🚀 Software Engineer | Co-Founder @TechieHelp | Graphic Designer </h3>
+<h3 align="center">🚀 Software Engineer | Co-Founder @TechieHelp | Graphic Designer </h3>  
 
 
 ---
 
 <h1 align="center">🔍 About Me</h1>
-I'm Yashasvi Bhati, a passionate software engineer on a journey of continuous learning and self-growth, dedicated to exploring the endless possibilities in the world of technology and design. As the co-founder of TechieHelp, I lead with purpose, creating meaningful projects and inspiring those around me From mastering front-end development (HTML, CSS, JavaScript) to excelling in graphic design, project management, and Java programming.
+Co-Founder @TechieHelp | Software Developer | Mentor
+Passionate about decentralized technology and Web3, I specialize in Java development, web development (HTML, CSS, JavaScript), blockchain, and UX/UI design.
+As a Co-Founder of TechieHelp, I’m dedicated to empowering learners through guidance, mentorship, and real-world tech solutions.
 
 ---
 <h1 align="center">📬 Connect with Me:</h1>
