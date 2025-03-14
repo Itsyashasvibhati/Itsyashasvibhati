@@ -13,7 +13,6 @@
 ---
 
 <h1 align="center">🔍 About Me</h1>
-Co-Founder @TechieHelp | Software Developer | Mentor
 Passionate about decentralized technology and Web3, I specialize in Java development, web development (HTML, CSS, JavaScript), blockchain, and UX/UI design.
 As a Co-Founder of TechieHelp, I’m dedicated to empowering learners through guidance, mentorship, and real-world tech solutions.
 
