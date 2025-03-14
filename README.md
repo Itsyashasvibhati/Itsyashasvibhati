@@ -17,9 +17,13 @@ Passionate about decentralized technology and Web3, I specialize in Java develop
 As a Co-Founder of TechieHelp, I’m dedicated to empowering learners through guidance, mentorship, and real-world tech solutions.
 
 💡 What I Do:
+
 ✅ Software Development – Java, Web Technologies, Blockchain
+
 ✅ UX/UI & Graphic Design – Creating impactful user experiences
+
 ✅ Project Management – Leading teams & optimizing workflows
+
 ✅ Guidance & Mentorship – Helping students in career growth & skill development
 
 ---
