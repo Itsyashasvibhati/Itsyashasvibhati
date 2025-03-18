@@ -40,7 +40,7 @@ As a Co-Founder of TechieHelp, I’m dedicated to empowering learners through gu
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a> -->
   <a href="https://unstop.com/mentor/manage/dashboard" target="blank" style="margin-right: 5px;">
-    <img src="https://play-lh.googleusercontent.com/Sn4FCvXPL21HgxKO_-Oj0_ldYA8YH2muN6enGKpBylzvYpCa_cZTqbU6VEXYRtFGwg=w480-h960-rw" alt="Unstop" />
+    <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg" alt="Unstop" />
   </a>
   <a href="https://www.hackerrank.com/profile/yashasvibhati131" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" />
