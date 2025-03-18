@@ -74,7 +74,7 @@ As a Co-Founder of TechieHelp, I’m dedicated to empowering learners through gu
 
 **Databases**:
 <p align="center">
-<!--   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="SQL" width="40" height="40"/> -->
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="SQL" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
 
