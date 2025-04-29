@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/main/yashasvibhatiBanner.png" alt="Yashasvi Bhati - Software Engineer" width="100%">  
+ <!-- <img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/main/yashasvibhatiBanner.png" alt="Yashasvi Bhati - Software Engineer" width="100%">  
 
 <p align="center-middle">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻">  
@@ -17,7 +17,7 @@
 <!--As a Co-Founder of TechieHelp, I’m dedicated to empowering learners through guidance, mentorship, and real-world tech solutions. -->
 
 
-💡 What I Do:
+<!--💡 What I Do:
 
 ✅ Software Development – Java, Web Technologies, Blockchain
 
@@ -42,7 +42,7 @@
  <!-- <a href="https://unstop.com/mentor/manage/dashboard" target="blank" style="margin-right: 5px;">
     <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg" alt="Unstop" />
   </a> -->
-  <a href="https://www.hackerrank.com/profile/yashasvibhati131" target="blank" style="margin-right: 20px;">
+ <!-- <a href="https://www.hackerrank.com/profile/yashasvibhati131" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" />
   </a>
   <a href="https://www.youtube.com/@TechieHelp" target="blank">
@@ -92,7 +92,7 @@
 
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyashasvibhati&layout=compact&theme=radical) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itsyashasvibhati&theme=radical)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itsyashasvibhati&theme=radical)
 
 
 ---
@@ -145,7 +145,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsyashasvibhati&show_icons=true&locale=en&layout=compact" alt="yashasvibhati" /></p>  -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/raw/main/assets/animation.gif" alt="animated gif" />
 </p>
 
