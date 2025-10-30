@@ -1,5 +1,5 @@
 
- <img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/main/yashasvibhatiBanner.png" alt="Yashasvi Bhati - Software Engineer" width="100%">  
+<!-- <img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/main/yashasvibhatiBanner.png" alt="Yashasvi Bhati - Software Engineer" width="100%">  
 
 <p align="center-middle">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=Welcome+to+My+GitHub!;Open+Source+Enthusiast+🚀;I+love+Coding+👨‍💻">  
@@ -7,14 +7,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Yashasvi Bhati</h1>
-<h3 align="center">🚀 Software Engineer | Co-Founder @TechieHelp | Graphic Designer </h3>  
+<h3 align="center">🚀 Software Engineer | Graphic Designer </h3>  
 
 
 ---
 
 <h1 align="center">🔍 About Me</h1>
  I specialize in Java development, web development (HTML, CSS, JavaScript), blockchain, and UX/UI design.
- I’m dedicated to empowering learners through guidance, mentorship, and real-world tech solutions. 
+ I’m dedicated to empowering learners through guidance, mentorship, and real-world tech solutions. -->
 
 
 <!--💡 What I Do:
