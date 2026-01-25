@@ -38,16 +38,8 @@ Clean UI • User-centered design • Brand visuals
 ✅ **Mentorship & Project Guidance**  
 Internships • Career guidance • Interview prep  
 
----
 
-## 🚀 Currently Building
 
-- 🧠 **BNB Global** – AI-Driven Software & Internship Platform  
-- 🍕 **Full-Stack Food Delivery System** (Admin Panel + AI + Automation)  
-- 🤖 **AI Agents** for business automation & productivity  
-- 📚 **TechieHelp** – Learning, mentoring & real-world projects  
-
----
 
 ## 🛠️ Tech Stack
 
