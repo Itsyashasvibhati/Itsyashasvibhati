@@ -121,9 +121,7 @@ Internships • Career guidance • Interview prep
   <a href="https://www.hackerrank.com/profile/yashasvibhati131">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
   </a>
-  <a href="https://www.youtube.com/@TechieHelp">
-    <img src="https://img.shields.io/badge/YouTube-TechieHelp-red?style=for-the-badge&logo=youtube">
-  </a>
+  
 </p>
 
 ---
