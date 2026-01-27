@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Yashasvi Bhati</h1>
-<h3 align="center">🚀 Software Engineer | AI Developer | Graphic Designer | Mentor</h3>
+<h3 align="center">🚀 Software Engineer | AI Developer | Mentor</h3>
 
 ---
 
@@ -15,7 +15,7 @@ I'm a **Software Engineer & AI Enthusiast** who loves building **real-world prod
 
 - 🧠 Strong in **Java, Web Development & AI-based systems**
 - 🤖 Building **AI-driven software & automation tools**
-- 🎨 Passionate about **UX/UI & Graphic Design**
+- 🎨 Passionate about **Managing Project**
 - 👨‍🏫 Active **Mentor & Guidance Counselor**
 - 🚀 Founder mindset – building startups, not just projects
 
