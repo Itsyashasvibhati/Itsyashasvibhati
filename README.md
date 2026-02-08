@@ -26,7 +26,7 @@ I'm a **Software Engineer & AI Enthusiast** who loves building **real-world prod
 ## 🚀 My Startup – BNB Global
 
 <p align="center">
-  <b>BNB Global</b> is an innovation-driven platform focused on building AI-powered software, real-world tech products, and career-focused opportunities for students and developers.
+  <b>BNB Global</b> is an innovation-driven platform focused on building AI-powered software, Robots, real-world tech products, and career-focused opportunities for students and developers.
 </p>
 
 ### 🌍 What We Do
@@ -37,7 +37,7 @@ I'm a **Software Engineer & AI Enthusiast** who loves building **real-world prod
 
 ### 🔗 Visit BNB Global
 <p align="center">
-  <a href="https://bnbglobal.tech" target="_blank">
+  <a href="https://bnbglobal.in" target="_blank">
     <img src="https://img.shields.io/badge/BNB%20Global-Visit%20Website-orange?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
