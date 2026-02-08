@@ -32,7 +32,7 @@ HTML • CSS • JavaScript • React • Node.js • MongoDB
 ✅ **AI Products & Startups**  
 AI-driven platforms • Smart systems • SaaS ideas  
 
-✅ **UX/UI & Graphic Design**  
+✅ **Graphic Design**  
 Clean UI • User-centered design • Brand visuals  
 
 ✅ **Mentorship & Project Guidance**  
