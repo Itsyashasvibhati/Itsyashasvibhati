@@ -105,7 +105,15 @@ Internships • Career guidance • Interview prep
 ## 📜 Certifications
 
 - Software Engineer – HackerRank  
-- Software Engineer Intern – HackerRank  
+- Software Engineer Intern – HackerRank
+- Oracle – AI Foundation Associate (2025)
+- Agile Project Management Certificate - HP Life Online Course
+- Artificial Intelligence(AI/ML) Internship Certification - Infosys Springboard
+- Product Management - Skill Up Certificate
+- NPTEL – Innovation, Business Models & Entrepreneurship (2024)
+- HackChrono Hackathon Certificate (Chandigarh)
+- JIET Digital Poster Certificate (2nd Prize)
+
 
 ---
 
