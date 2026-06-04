@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/yashasvi-bhati-8444b82a1">
+  <a href="https://www.linkedin.com/in/yashasvi-bhati-8444b82a1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://drive.google.com/file/d/1gfC2chOrlpdorssOIj7RTEX-h843Fj-x/view?usp=sharing
@@ -236,11 +236,11 @@ I'm a passionate **QA Engineer** and Computer Science Engineering student focuse
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/yashasvi-bhati-8444b82a1/">
     <img src="https://img.shields.io/badge/LinkedIn-Yashasvi%20Bhati-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://drive.google.com/file/d/1gfC2chOrlpdorssOIj7RTEX-h843Fj-x/view?usp=sharing">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome"/>
   </a>
   
