@@ -1,4 +1,4 @@
-<img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/49a522596cffda8984684846c5b2c10dca60309b/Banner.png" width="100%" />
+<img src="https://github.com/Itsyashasvibhati/Itsyashasvibhati/blob/b28e76dbca989758caddd9a8d997289f78787dd7/BannerGithub.png" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Yashasvi+Bhati+👋;Software+Engineer+%7C+AI+Builder+🤖;Startup+Founder+%7C+Mentor+🚀;I+Build+Products+That+Create+Impact+✨">
