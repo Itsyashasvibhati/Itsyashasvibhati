@@ -185,7 +185,7 @@ Collaborating with developers, project managers, and stakeholders to ensure time
 
 ## 🧪 OrangeHRM Testing Project
 
-* 40+ Test Cases
+* 100+ Test Cases
 * Functional Testing
 * Regression Testing
 * Validation Testing
@@ -209,6 +209,7 @@ Collaborating with developers, project managers, and stakeholders to ensure time
 * Functional Testing
 * Validation Testing
 * Responsive Testing
+* 25+ Defects Identified
 * QA Documentation
 
 ---
