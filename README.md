@@ -142,6 +142,10 @@ GPT • BERT • OCR • Machine Learning • NLP
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Yashasvi+Bhati+👋;Project+Manager+%7C+QA+Engineer+🚀;Manual+Testing+%7C+API+Testing+🧪;Software+Quality+Analyst+⚡;AI+Solutions+%7C+Software+Development+🤖;Turning+Ideas+Into+Successful+Products+✨">
+</p>
+
 # 🚀 Featured Projects
 
 ## 🌐 BNB Global – Official Startup Website (Live)
