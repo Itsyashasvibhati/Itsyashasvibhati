@@ -26,36 +26,10 @@
 </p>
 
 ---
-## 🎯 Professional Snapshot
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Management-Expert-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Quality%20Assurance-Professional-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Solutions-Builder-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Development-Full%20Stack-purple?style=for-the-badge"/>
-</p>
 
-<table>
-<tr>
-<td width="50%">
 
-### 🚀 Career Highlights
 
-✅ Founder & Project Manager at TechieHelp
-
-✅ QA Testing Intern
-
-✅ Software Engineer Intern
-
-✅ Artificial Intelligence Intern
-
-✅ Built AI-Powered Applications
-
-✅ Managed Multiple Client Projects
-
-</td>
-
-<td width="50%">
 
 ### 📊 Quick Stats
 
