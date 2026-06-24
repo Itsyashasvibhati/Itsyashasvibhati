@@ -141,10 +141,15 @@ GPT • BERT • OCR • Machine Learning • NLP
 * Developed personalized AI-based recommendation systems.
 
 ---
+🧪 Quality Assurance & Software Testing Intern
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Yashasvi+Bhati+👋;Project+Manager+%7C+QA+Engineer+🚀;Manual+Testing+%7C+API+Testing+🧪;Software+Quality+Analyst+⚡;AI+Solutions+%7C+Software+Development+🤖;Turning+Ideas+Into+Successful+Products+✨">
-</p>
+📅 June 2026 – Present
+
+Performing end-to-end Manual Testing of web and mobile applications.
+Designing, reviewing, and executing Test Scenarios and Test Cases based on business requirements.
+Conducting Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UI Testing, and Validation Testing.
+Identifying, documenting, and tracking software defects using structured Bug Reports.
+Collaborating with developers, project managers, and stakeholders to ensure timely defect resolution.
 
 # 🚀 Featured Projects
 
