@@ -26,6 +26,247 @@
 </p>
 
 ---
+## 🎯 Professional Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Management-Expert-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quality%20Assurance-Professional-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Solutions-Builder-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Development-Full%20Stack-purple?style=for-the-badge"/>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Career Highlights
+
+✅ Founder & Project Manager at TechieHelp
+
+✅ QA Testing Intern
+
+✅ Software Engineer Intern
+
+✅ Artificial Intelligence Intern
+
+✅ Built AI-Powered Applications
+
+✅ Managed Multiple Client Projects
+
+</td>
+
+<td width="50%">
+
+### 📊 Quick Stats
+
+📁 10+ Projects Completed
+
+🧪 200+ Test Cases Designed
+
+🐞 80+ Bugs Reported
+
+📱 Multiple Mobile Apps Tested
+
+🌐 Multiple Web Apps Tested
+
+🤖 AI & Healthcare Solutions Built
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsyashasvibhati&theme=tokyo-night&hide_border=true" width="100%">
+</p>
+
+---
+
+## 💼 Experience Timeline
+
+```text
+🚀 Project Manager @ TechieHelp
+Jan 2024 ─────────────── Oct 2025
+
+💻 Software Engineer Intern @ LunarEdge
+Apr 2025 ─────────────── Jun 2025
+
+🤖 AI Intern @ Infosys Springboard
+Nov 2025 ─────────────── Jan 2026
+
+🧪 QA & Software Testing Intern
+Jun 2026 ─────────────── Present
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 BNB Global
+
+Startup Website
+
+* Project Planning
+* Stakeholder Management
+* Team Coordination
+* Deployment Management
+
+🔗 https://bnbglobal.in
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Diet Recommendation System
+
+* OCR Processing
+* GPT Integration
+* BERT Integration
+* Personalized Recommendations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎯 AI Career Insight Platform
+
+* Career Recommendation Engine
+* AI Analysis
+* API Integration
+* Project Planning
+
+</td>
+
+<td width="50%">
+
+### 🧪 OrangeHRM Testing
+
+* 100+ Test Cases
+* Regression Testing
+* Functional Testing
+* QA Documentation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📱 Controlled Hub Testing
+
+* Mobile Testing
+* UI/UX Testing
+* 50+ Test Scenarios
+* 19+ Bugs Identified
+
+</td>
+
+<td width="50%">
+
+### 🎓 Educase Testing
+
+* Functional Testing
+* Responsive Testing
+* Validation Testing
+* 25+ Bugs Identified
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📋 QA Portfolio Metrics
+
+| Metric                     | Achievement |
+| -------------------------- | ----------- |
+| Test Scenarios Created     | 200+        |
+| Test Cases Written         | 150+        |
+| Defects Reported           | 80+         |
+| Web Applications Tested    | 5+          |
+| Mobile Applications Tested | 3+          |
+| API Testing Projects       | Multiple    |
+| QA Documentation           | Extensive   |
+
+---
+
+## 🏆 Certifications & Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-AI%20Foundation-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-AI%20Internship-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HP%20Life-Agile%20Project%20Management-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Innovation%20%26%20Entrepreneurship-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itsyashasvibhati&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyashasvibhati&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsyashasvibhati&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Itsyashasvibhati&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🌱 Current Focus
+
+🚀 Project Management
+
+🧪 Quality Assurance Engineering
+
+🤖 AI Quality Analyst
+
+📊 Agile Project Delivery
+
+⚙️ Automation Testing
+
+🎯 AI Product Management
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Itsyashasvibhati/Itsyashasvibhati/output/github-contribution-grid-snake.svg"/>
+</p>
+
 
 # 👨‍💼 Professional Summary
 
