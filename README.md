@@ -58,7 +58,31 @@ Strong technical foundation in Software Development, Artificial Intelligence, Pr
 * Notion
 
 ---
+<h2 align="center">🛠 Tech Stack</h2>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Manual_Testing-28A745?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Testing-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Agile-0096FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scrum-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
+
+</p>
 # 🧪 Quality Assurance Skills
 
 * Manual Testing
