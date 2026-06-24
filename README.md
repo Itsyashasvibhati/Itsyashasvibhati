@@ -242,9 +242,7 @@ Bachelor of Technology (Computer Science Engineering)
 
 * Project Management Professional (PMP)
 * Agile Project Delivery
-* Selenium Automation Testing
-* API Automation Testing
-* AI Quality Engineering
+* AI Quality Analyst
 * AI Product Management
 
 ---
@@ -268,7 +266,7 @@ Bachelor of Technology (Computer Science Engineering)
 ---
 
 <p align="center">
-  <b>🚀 Managing Projects • 🧪 Ensuring Quality • 🤖 Building AI Solutions</b>
+  <b>🚀 Managing Projects • 🧪 Ensuring Quality • 🤖 Building AI Product Solutions</b>
 </p>
 
 
