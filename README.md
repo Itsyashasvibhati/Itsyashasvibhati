@@ -150,6 +150,7 @@ Designing, reviewing, and executing Test Scenarios and Test Cases based on busin
 Conducting Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, UI Testing, and Validation Testing.
 Identifying, documenting, and tracking software defects using structured Bug Reports.
 Collaborating with developers, project managers, and stakeholders to ensure timely defect resolution.
+
 ---
 # 🚀 Featured Projects
 
