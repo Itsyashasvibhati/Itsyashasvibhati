@@ -14,6 +14,7 @@
   </a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Itsyashasvibhati&label=Profile%20Views&color=orange&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/Itsyashasvibhati?label=Followers&style=for-the-badge&color=blue" /> </p>
 <h1 align="center">Yashasvi Bhati</h1>
 
 <h3 align="center">
@@ -35,6 +36,7 @@ Experienced in project planning, stakeholder communication, Agile methodologies,
 Strong technical foundation in Software Development, Artificial Intelligence, Project Management, and Software Testing with the ability to bridge business and technical teams.
 
 ---
+
 
 # 📊 Project Management Skills
 
@@ -264,6 +266,33 @@ Bachelor of Technology (Computer Science Engineering)
 </p>
 
 ---
+## 📈 Contribution Activity
+
+[![Yashasvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itsyashasvibhati&theme=tokyo-night)](https://github.com/Itsyashasvibhati)
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itsyashasvibhati&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyashasvibhati&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsyashasvibhati&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Itsyashasvibhati&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Itsyashasvibhati/Itsyashasvibhati/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <b>🚀 Managing Projects • 🧪 Ensuring Quality • 🤖 Building AI Product Solutions</b>
