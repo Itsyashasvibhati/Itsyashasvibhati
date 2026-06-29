@@ -226,6 +226,8 @@ https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=shari
 # 🏆 Certifications
 
 - Oracle AI Foundation Associate
+- Project Management Fundamentals — IBM SkillsBuild
+- Project Management — OHSC (Oxford Home Study Centre)
 - Artificial Intelligence Internship – Infosys Springboard
 - Agile Project Management – HP Life
 - Software Engineer Certification – HackerRank
