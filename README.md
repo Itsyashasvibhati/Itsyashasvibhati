@@ -174,6 +174,7 @@ https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=shari
 - Applied OCR, NLP, GPT, and BERT technologies.
 - Developed AI-powered healthcare recommendations.
 
+🔗 https://github.com/Itsyashasvibhati/AI-Diet-Plan-Generator
 ---
 
 ## 🎯 AI Career Insight Platform
@@ -191,6 +192,7 @@ https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=shari
 - Defect Reporting
 - QA Documentation
 
+🔗 https://github.com/Itsyashasvibhati/OrangeHRM-Testing-Project
 ---
 
 ## 📱 Controlled Hub Mobile Testing
@@ -200,6 +202,7 @@ https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=shari
 - UI/UX Testing
 - Defect Reporting
 
+🔗 https://github.com/Itsyashasvibhati/Controlled-Hub-Mobile-Application-Testing
 ---
 
 # 📋 Additional QA Projects
