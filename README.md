@@ -74,6 +74,8 @@ Passionate about building high-quality products, improving user experiences, and
 </table>
 
 ---
+# Project_Portfolio View 
+https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing
 
 # 🛠️ Tech Stack
 
